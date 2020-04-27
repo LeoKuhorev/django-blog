@@ -12,6 +12,8 @@ django-crispy-forms = "*"
 pillow = "*"
 django-cleanup = "*"
 gunicorn = "*"
+boto3 = "*"
+django-storages = "*"
 
 [requires]
 python_version = "3"
