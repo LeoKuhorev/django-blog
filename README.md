@@ -72,3 +72,5 @@ AWS_SECRET_ACCESS_KEY=S3 bucket access key
 [Entire tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 
 [Autoresize images for S3Bucket](https://gist.github.com/caiolopes/a9f2bd942fa2d18412ac0d68a915eedf)
+
+[Link to PR](https://github.com/LeoKuhorev/django-blog/pull/2)
