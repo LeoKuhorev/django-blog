@@ -5,6 +5,10 @@ verify_ssl = true
 
 [dev-packages]
 autopep8 = "*"
+pygraphviz = "*"
+django-extensions = "*"
+pyparsing = "*"
+pydot = "*"
 
 [packages]
 django = "*"
@@ -15,7 +19,7 @@ gunicorn = "*"
 boto3 = "*"
 django-storages = "*"
 django-heroku = "*"
-psycopg2-binary = "*"
+django-environ = "*"
 
 [requires]
 python_version = "3"
